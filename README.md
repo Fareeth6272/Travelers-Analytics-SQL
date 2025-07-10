@@ -1,3 +1,6 @@
+# Problem Statement
+Travel companies often struggle to balance operational costs with customer satisfaction while maximizing profitability. Without a clear understanding of travel patterns, peak seasons, and cost drivers such as accommodation and transportation, it becomes difficult to optimize pricing and improve marketing strategies. This project aims to analyze travel data to uncover cost trends, identify popular destinations, and highlight high-value trips. The goal is to provide actionable insights that help businesses make data-driven decisions to enhance efficiency, reduce expenses, and better target their customers.
+
 # Travelers-Analytics-SQL
 
 SQL QUERY = https://github.com/Fareeth6272/Travelers-Analytics-SQL/blob/main/travel.sql
