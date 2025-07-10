@@ -1,5 +1,7 @@
 # Travelers-Analytics-SQL
 
+SQL QUERY = https://github.com/Fareeth6272/Travelers-Analytics-SQL/blob/main/travel.sql
+
 # Key Insights & Analysis:
 # 1) Cost & Expense Analysis:
 * Identified destinations with above-average accommodation costs.
